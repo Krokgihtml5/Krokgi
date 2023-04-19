@@ -1,0 +1,26 @@
+.div-1 h1 {
+    background-color: blue;
+    color: white;
+    font-size: 41px;
+}
+
+.div-1 h4 {
+    color: goldenrod;
+    font-size: 28px;
+}
+
+.div-1 h5,h6 {
+    color: blue;
+    font-size: 21px;
+}
+
+body{
+    background-color: green;
+    background-size: cover;
+}
+
+.div-1 h2 {
+    background-color: orange;
+    color: blue;
+    position: absolute;
+}
